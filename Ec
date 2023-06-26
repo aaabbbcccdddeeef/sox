@@ -1,0 +1,5 @@
+```python
+user_input = input("请输入：")
+if user_input == "没本事":
+    print("为什么")
+```
