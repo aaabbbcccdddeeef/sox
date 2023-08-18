@@ -1,0 +1,5 @@
+```python
+user_input = input("请输入：")
+if user_input == "背":
+    print("不知")
+```
