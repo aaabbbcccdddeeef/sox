@@ -1,0 +1,5 @@
+```python
+user_input = input("请输入：")
+if user_input == "婊子儿":
+    print("究")
+```
